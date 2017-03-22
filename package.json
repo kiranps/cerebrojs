@@ -1,0 +1,17 @@
+{
+  "name": "cerebrojs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiranps/cerebrojs.git",
+  "author": "Kiran PS <pskirann@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack --colors"
+  },
+  "dependencies": {
+    "socket.io-client": "^1.7.3"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.0"
+  }
+}
