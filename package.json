@@ -1,6 +1,6 @@
 {
   "name": "cerebrojs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/kiranps/cerebrojs.git",
   "author": "Kiran PS <pskirann@gmail.com>",
