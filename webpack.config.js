@@ -8,6 +8,8 @@ module.exports = {
     output: {
       filename: 'cerebro.js',
       path: path.resolve(__dirname, 'dist'),
+      library: 'cerebrojs',
+      libraryTarget: 'umd'
     },
     plugins: [
         new UglifyJsPlugin({ minimize: true })
